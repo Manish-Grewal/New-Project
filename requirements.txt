@@ -4,3 +4,9 @@ seaborn
 matplotlib
 scikit-learn
 -e .
+Flask
+Xgboost
+DecisionTree
+Kneighbors
+LinearRegression
+XGBoost
